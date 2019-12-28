@@ -6,7 +6,7 @@ import {HomePage} from './pages/homepage/homepage.component';
 
 
 const HatsPage = (props) => {
-  console.log(props.match.params.topicId)
+  console.log(props)
   return (
     <div> 
       <h1>HatsPage PAGE, {props.match.params.topicId}</h1>
