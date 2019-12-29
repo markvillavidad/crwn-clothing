@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crwn-clothing/static/css/main.bb3b9b7b.chunk.css",
-    "main.js": "/crwn-clothing/static/js/main.71b98d34.chunk.js",
-    "main.js.map": "/crwn-clothing/static/js/main.71b98d34.chunk.js.map",
+    "main.js": "/crwn-clothing/static/js/main.a8e888d5.chunk.js",
+    "main.js.map": "/crwn-clothing/static/js/main.a8e888d5.chunk.js.map",
     "runtime-main.js": "/crwn-clothing/static/js/runtime-main.01128f07.js",
     "runtime-main.js.map": "/crwn-clothing/static/js/runtime-main.01128f07.js.map",
     "static/js/2.0c89c664.chunk.js": "/crwn-clothing/static/js/2.0c89c664.chunk.js",
     "static/js/2.0c89c664.chunk.js.map": "/crwn-clothing/static/js/2.0c89c664.chunk.js.map",
     "index.html": "/crwn-clothing/index.html",
-    "precache-manifest.b7aedd6d44d4d8ca9c5998f17c784314.js": "/crwn-clothing/precache-manifest.b7aedd6d44d4d8ca9c5998f17c784314.js",
+    "precache-manifest.64aae84b3711ab33314ab4e8100f0e7d.js": "/crwn-clothing/precache-manifest.64aae84b3711ab33314ab4e8100f0e7d.js",
     "service-worker.js": "/crwn-clothing/service-worker.js",
     "static/css/main.bb3b9b7b.chunk.css.map": "/crwn-clothing/static/css/main.bb3b9b7b.chunk.css.map",
     "static/js/2.0c89c664.chunk.js.LICENSE": "/crwn-clothing/static/js/2.0c89c664.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.01128f07.js",
     "static/js/2.0c89c664.chunk.js",
     "static/css/main.bb3b9b7b.chunk.css",
-    "static/js/main.71b98d34.chunk.js"
+    "static/js/main.a8e888d5.chunk.js"
   ]
 }
