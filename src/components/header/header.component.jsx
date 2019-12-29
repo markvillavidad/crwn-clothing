@@ -8,7 +8,7 @@ import {auth} from '../../firebase/firebase.utils'
 const Header = ({currentUser}) => {
     return (
         <div className='header'>
-            <Link className='logo-container' to="/">
+            <Link className='logo-container' to="/crwn-clothing">
                 <Logo className='logo'/>
             </Link>
             <div className='options'>
